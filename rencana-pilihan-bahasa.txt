@@ -2,7 +2,11 @@ Rencana bahasa pemrograman yang akan ditekuni oleh winayaid
 - php
 * perkuat dasar syntax dan fungsi dasar yang ada
 * implementasi dasar php ke framework
+^ variabel
+
 - javascript
+^ dasar
 - java
 - python
 - framework django
+- framework game python
