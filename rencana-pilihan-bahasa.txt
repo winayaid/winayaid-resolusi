@@ -5,8 +5,8 @@ Rencana bahasa pemrograman yang akan ditekuni oleh winayaid
 ^ variabel
 ^ object dan array
 - javascript
-^ dasar
 - java
 - python
+*dasar
 - framework django
 - framework game python
