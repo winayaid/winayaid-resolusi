@@ -5,3 +5,4 @@ Rencana bahasa pemrograman yang akan ditekuni oleh winayaid
 - javascript
 - java
 - python
+- framework django
